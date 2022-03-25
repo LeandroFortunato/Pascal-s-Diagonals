@@ -1,4 +1,4 @@
-Create a function that returns an array containing the first l numbers from the nth diagonal of Pascal's triangle.
+Create a function that returns an array containing the first l numbers from the nth diagonal of Pascal's triangle https://en.wikipedia.org/wiki/Pascal's_triangle.
 
 n = 0 should generate the first diagonal of the triangle (the ones).
 The first number in each diagonal should be 1.
